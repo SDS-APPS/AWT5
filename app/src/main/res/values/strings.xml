@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AWT5_example</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">AWT5 test app</string>
+    <string name="start">Start test calls</string>
+
+    <string name="hello_first_fragment">This is a simplistic test app for AWT5 lib</string>
+    <string name="output_console_fixed_test">Output console\n</string>
+
+</resources>
